@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="picture_border_padding">1dp</dimen>
+    <dimen name="question_text_size">16sp</dimen>
+    <dimen name="question_padding">16dp</dimen>
+    <dimen name="answers_margin_left_right">36dp</dimen>
+    <dimen name="radiobutton_text_padding">10dp</dimen>
+    <dimen name="submit_button_margin">24dp</dimen>
+    <dimen name="image_margin">24dp</dimen>
+    <dimen name="answers_text_size">14sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="answer_table_margin">1dp</dimen>
+</resources>
